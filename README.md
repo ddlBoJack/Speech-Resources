@@ -62,26 +62,37 @@
 
 ## 企业
 
-MSRA-NLC组
+- MSRA-NLC组
 
-腾讯AILAB
 
-科大讯飞
+- 腾讯AILAB
 
-思必驰
+
+- 科大讯飞
+
+
+- 思必驰
+
 
 
 
 ## 期刊/会议
 
-
+- TASLP（IEEE Transactions on Audio, Speech, and Language Processing）
+- ICASSP（IEEE International Conference on Acoustics, Speech and Signal Processing）
+- INTERSPEECH（Conference of the International Speech Communication Association）
 
 
 
 ## 公众号
 
+- 语音杂谈
 
+- WeNet步行街
+
+- CCF语音对话与听觉专委会
 
 
 
 ## 知乎专栏
+
