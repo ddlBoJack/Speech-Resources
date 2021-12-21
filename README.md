@@ -25,7 +25,7 @@
 
 #### 深圳研究生院
 
-- 吴志勇
+- [吴志勇](https://www.sigs.tsinghua.edu.cn/zywu/main.htm)
 
 
 
