@@ -23,7 +23,7 @@
 
 - 贾珈
 
-#### 深圳研究生院
+#### [清华大学人机语音交互实验室(THUHCSI)](https://thuhcsi.github.io/)
 
 - [吴志勇](https://www.sigs.tsinghua.edu.cn/zywu/main.htm)
 
