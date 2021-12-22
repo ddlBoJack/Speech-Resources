@@ -1,29 +1,3 @@
-- [Speech-Resource](#speech-resource)
-  * [国内高校](#----)
-    + [清华大学](#----)
-      - [电子工程系语音与音频技术实验室(SATLab)](#-----------------satlab---http---webeetsinghuaeducn-satlab-)
-      - [清华大学信息技术研究院语音和语言技术研究中心(CSLT)](#------------------------cslt---http---csltriittsinghuaeducn-indexphp-)
-      - [计算机系](#----)
-      - [清华大学人机语音交互实验室(THUHCSI)](#---------------thuhcsi---https---thuhcsigithubio--)
-    + [上海交通大学](#------)
-      - [计算机系跨媒体语言智能实验室(现X-Lance，前SpeechLab)](#-----------------x-lance--speechlab---https---x-lancesjtueducn--)
-      - [电子系未来媒体协同创新中心](#-------------)
-    + [北京大学](#----)
-      - [计算机科学技术研究所数字音频实验室](#--------------------https---wwwicstpkueducn-audiolab-indexhtm-)
-    + [中国科学院](#-----)
-      - [自动化所模式识别国家重点实验室](#------------------http---wwwiacascn--)
-      - [声学所](#---)
-    + [中国科学技术大学](#--------)
-      - [语音及语言信息处理国家工程实验室](#-------------------http---nelslipustceducn--)
-    + [西北工业大学](#------)
-      - [音频语音与语言处理研究组](#---------------http---wwwnpu-aslporg--)
-  * [本土公司](#----)
-  * [期刊/会议](#-----)
-  * [公众号](#---)
-  * [知乎专栏](#----)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 # Speech-Resource
 
 语音方向实验室/人才库/资源等，欢迎推荐或自荐（排名不分先后）
