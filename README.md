@@ -141,4 +141,4 @@
 
 [谈谈语音技术——xmdxcsj的专栏](https://www.zhihu.com/column/c_1409104824050446336)
 
-[speech&nlp——BoJack的专栏](https://www.zhihu.com/column/c_1446609615102832640)
+[自监督语音识别——BoJack的专栏](https://www.zhihu.com/column/c_1446609615102832640)
