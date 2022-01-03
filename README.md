@@ -28,6 +28,8 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+<!-- CMD: doctoc README.md -->
+
 # Speech-Resource
 
 > 语音方向实验室/人才库/资源等，欢迎推荐或自荐（排名不分先后）
