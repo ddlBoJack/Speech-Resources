@@ -25,10 +25,9 @@
   - [期刊/会议](#%E6%9C%9F%E5%88%8A%E4%BC%9A%E8%AE%AE)
   - [公众号](#%E5%85%AC%E4%BC%97%E5%8F%B7)
   - [知乎专栏](#%E7%9F%A5%E4%B9%8E%E4%B8%93%E6%A0%8F)
+  - [资源](#%E8%B5%84%E6%BA%90)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-<!-- CMD: doctoc README.md -->
 
 # Speech-Resource
 
@@ -174,3 +173,11 @@
 [谈谈语音技术——xmdxcsj的专栏](https://www.zhihu.com/column/c_1409104824050446336)
 
 [自监督语音识别——BoJack的专栏](https://www.zhihu.com/column/c_1446609615102832640)
+
+
+
+## 资源
+
+[语音识别数据集汇总](https://github.com/double22a/speech_dataset)
+
+[语音识别benchmark](https://github.com/SpeechColab/Leaderboard)
