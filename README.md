@@ -21,11 +21,11 @@
       - [语音及语言信息处理国家工程实验室](#%E8%AF%AD%E9%9F%B3%E5%8F%8A%E8%AF%AD%E8%A8%80%E4%BF%A1%E6%81%AF%E5%A4%84%E7%90%86%E5%9B%BD%E5%AE%B6%E5%B7%A5%E7%A8%8B%E5%AE%9E%E9%AA%8C%E5%AE%A4)
     - [西北工业大学](#%E8%A5%BF%E5%8C%97%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6)
       - [音频语音与语言处理研究组](#%E9%9F%B3%E9%A2%91%E8%AF%AD%E9%9F%B3%E4%B8%8E%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%A0%94%E7%A9%B6%E7%BB%84)
-  - [企业](#%E4%BC%81%E4%B8%9A)
-  - [期刊/会议](#%E6%9C%9F%E5%88%8A%E4%BC%9A%E8%AE%AE)
+  - [国内企业](#%E5%9B%BD%E5%86%85%E4%BC%81%E4%B8%9A)
+  - [期刊&会议](#%E6%9C%9F%E5%88%8A%E4%BC%9A%E8%AE%AE)
   - [公众号](#%E5%85%AC%E4%BC%97%E5%8F%B7)
   - [知乎专栏](#%E7%9F%A5%E4%B9%8E%E4%B8%93%E6%A0%8F)
-  - [资源](#%E8%B5%84%E6%BA%90)
+  - [常用资源](#%E5%B8%B8%E7%94%A8%E8%B5%84%E6%BA%90)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -132,27 +132,35 @@
 
 
 
-## 企业
+## 国内企业
 
 - MSRA-NLC组
-
-
 - 腾讯AILAB
-
-
 - 科大讯飞
-
-
+- 搜狗
+- 阿里天猫精灵
+- 百度小度
+- 小米小爱
 - 思必驰
+- 云知声
+- 出门问问
 
 
 
+## 期刊&会议
 
-## 期刊/会议
+- TPAMI（IEEE Trans on Pattern Analysis and Machine Intelligence）
 
 - TASLP（IEEE Transactions on Audio, Speech, and Language Processing）
+- TSLP（ACM Transactions on Speech and Language Processing）
 - ICASSP（IEEE International Conference on Acoustics, Speech and Signal Processing）
 - INTERSPEECH（Conference of the International Speech Communication Association）
+- ASRU（IEEE Automatic Speech Recognition and Understanding Workshop）
+- SLT（IEEE Spoken Language Technology Workshop）
+- SPL（IEEE Signal Processing Letters）
+- ISCSLP（International Symposium on Chinese Spoken Language Processing）
+- JSLHR（Journal of Speech, Language, and Hearing Research）
+- Computer Speech and Language
 
 
 
@@ -176,8 +184,10 @@
 
 
 
-## 资源
+## 常用资源
 
 [语音识别数据集汇总](https://github.com/double22a/speech_dataset)
 
-[语音识别benchmark](https://github.com/SpeechColab/Leaderboard)
+[语音识别 benchmark](https://github.com/SpeechColab/Leaderboard)
+
+[语音预训练 paper list](https://github.com/ddlBoJack/Awesome-Speech-Pretraining)
