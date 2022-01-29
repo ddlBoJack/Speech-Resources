@@ -33,7 +33,7 @@
 
 > 语音方向实验室/人才库/资源等，欢迎推荐或自荐（排名不分先后）
 
-<img src="https://githubpage.oss-cn-qingdao.aliyuncs.com/mypic998FCD2F-BC09-49F7-9D7A-2B9F35A9F57D.jpeg" alt="998FCD2F-BC09-49F7-9D7A-2B9F35A9F57D" style="zoom: 25%;" />
+<img src="https://githubpage.oss-cn-qingdao.aliyuncs.com/mypic1791643462681_.pic.jpg" width="400px"/>
 
 ## 国内高校
 
