@@ -178,9 +178,11 @@
 
 ## 知乎专栏
 
-[谈谈语音技术——xmdxcsj的专栏](https://www.zhihu.com/column/c_1409104824050446336)
+[谈谈语音技术](https://www.zhihu.com/column/c_1409104824050446336)
 
-[自监督语音识别——BoJack的专栏](https://www.zhihu.com/column/c_1446609615102832640)
+[自监督语音识别](https://www.zhihu.com/column/c_1446609615102832640)
+
+[Kaldi源码解析](https://www.zhihu.com/column/c_1313042386550267904)
 
 
 
