@@ -33,17 +33,24 @@
 
 > 语音方向实验室/人才库/资源等，欢迎推荐或自荐（排名不分先后）
 
-<img src="https://githubpage.oss-cn-qingdao.aliyuncs.com/mypic1821643935351_.pic.jpg" width="400px"/>
+<img src="https://githubpage.oss-cn-qingdao.aliyuncs.com/mypic1891644550310_.pic.jpg" width="400px"/>
 
 ## 国内高校
 
 ### 清华大学
 
+#### 电子工程系
+
+- 吴及：电子工程系副系主任，研究方向侧重于语音语言智能与医学结合
+
 #### [电子工程系语音与音频技术实验室(SATLab)](http://web.ee.tsinghua.edu.cn/satlab)
 
 - 刘加：原实验室主任
-
 - [张卫强](http://web.ee.tsinghua.edu.cn/wqzhang)：实验室主任，语音识别、音频识别、音乐与声学信号处理
+
+#### 电子工程系语音处理与机器智能实验室(SPMI lab)
+
+- [欧志坚](http://oa.ee.tsinghua.edu.cn/~ouzhijian/index.htm)
 
 #### [清华大学信息技术研究院语音和语言技术研究中心(CSLT)](http://cslt.riit.tsinghua.edu.cn/index.php)
 
@@ -70,8 +77,11 @@
 该实验室以多媒体音视频内容的检索与挖掘为主，很多内容涉及音频方向。
 
 - 陈晓鸥
-
 - 杨德顺
+
+#### 深圳研究生院现代信号与数据处理实验室(ADSPLAB)
+
+- 邹月娴
 
 
 
@@ -88,7 +98,7 @@
 
 #### 电子系未来媒体协同创新中心
 
-- [王煜](http://mi.eng.cam.ac.uk/~yw396/)
+- [王钰 ](http://mi.eng.cam.ac.uk/~yw396/)
 
 
 
@@ -129,6 +139,10 @@
 #### [音频语音与语言处理研究组](http://www.npu-aslp.org/)
 
 - 谢磊
+
+#### [智能声学与临境通信研究中心(CIAIC)](https://www.ciaic.org/)
+
+- 陈景东：前贝尔实验室资深研究员，信号和信息处理做的很好
 
 
 
