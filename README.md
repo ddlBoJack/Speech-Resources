@@ -162,7 +162,7 @@
 - 思必驰
 - 云知声
 - 出门问问
-
+- 字节跳动SAMI组（Speech, Audio and Music Intelligence (SAMI) group）
 
 
 ## 期刊&会议
@@ -211,3 +211,5 @@
 [语音识别 benchmark](https://github.com/SpeechColab/Leaderboard)
 
 [语音预训练 paper list](https://github.com/ddlBoJack/Awesome-Speech-Pretraining)
+
+[语音合成 paper list](https://github.com/wenet-e2e/speech-synthesis-paper)
