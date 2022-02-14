@@ -213,3 +213,5 @@
 [语音预训练 paper list](https://github.com/ddlBoJack/Awesome-Speech-Pretraining)
 
 [语音合成 paper list](https://github.com/wenet-e2e/speech-synthesis-paper)
+
+[语音增强 paper list](https://github.com/Wenzhe-Liu/awesome-speech-enhancement)
