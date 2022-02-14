@@ -35,7 +35,7 @@
 
 # Speech-Resource
 
-> 语音方向实验室/人才库/资源等，欢迎推荐或自荐（排名不分先后）
+> 语音方向实验室/公司/资源/实习等，欢迎推荐或自荐（排名不分先后）
 
 <img src="https://githubpage.oss-cn-qingdao.aliyuncs.com/mypic1891644550310_.pic.jpg" width="400px"/>
 
