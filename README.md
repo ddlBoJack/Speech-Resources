@@ -153,7 +153,8 @@
 ## 国内企业
 
 - MSRA-NLC组
-- 腾讯AILAB
+- 腾讯AILAB语音技术中心
+- 字节跳动SAMI组
 - 科大讯飞
 - 搜狗
 - 阿里天猫精灵
@@ -162,7 +163,6 @@
 - 思必驰
 - 云知声
 - 出门问问
-- 字节跳动SAMI组（Speech, Audio and Music Intelligence (SAMI) group）
 
 
 ## 期刊&会议
