@@ -252,6 +252,26 @@ Faculty of Information Technology
 
 - [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe)
 
+### 国立情报学研究所（Tokyo）
+
+- [Junichi Yamagishi](https://scholar.google.com/citations?user=nRrdjtwAAAAJ&hl=zh-CN)
+
+### 南加州大学
+
+- [Shrikanth (Shri) Narayanan](https://scholar.google.com/citations?hl=zh-CN&user=8EDHmYkAAAAJ&view_op=list_works&sortby=pubdate)
+
+### 德克萨斯州大学达拉斯分校
+
+- [John Hansen](https://scholar.google.com/citations?user=hfADwdIAAAAJ&hl=zh-CN)
+
+### 罗切斯特大学
+
+- [Zhiyao Duan](https://scholar.google.com/citations?hl=en&user=pJmAoJ4AAAAJ&view_op=list_works&sortby=pubdate)
+
+### 俄亥俄州立大学
+
+- [DeLiang Wang](https://scholar.google.com/citations?user=yO59sggAAAAJ&hl=zh-CN)
+
 
 ## 国内企业
 
