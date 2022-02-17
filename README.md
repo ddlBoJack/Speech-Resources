@@ -122,7 +122,8 @@
 - 王仁华
 
 - 陈恩红
-
+- [凌震华](http://staff.ustc.edu.cn/~zhling/)
+- 杜俊
 
 
 ### 西北工业大学
@@ -151,6 +152,105 @@
 
 - 李明
 
+
+
+### 浙江大学
+
+计算机科学与技术学院
+
+- 赵洲
+
+### 香港中文大学
+
+香港中文大学（深圳）数据科学学院
+
+- [李海洲](https://colips.org/~eleliha/)
+
+香港中文大学系统工程与工程管理学系
+
+- 蒙美玲
+- [刘循英](https://www1.se.cuhk.edu.hk/~xyliu/)
+
+### 台湾大学
+
+Speech Processing and Machine Learning Laboratory
+
+- [李琳山](https://speech.ee.ntu.edu.tw/previous_version/lslNew.htm)
+- [李宏毅](https://speech.ee.ntu.edu.tw/~hylee/index.php)
+
+
+## 海外高校
+
+### 蒙特利尔大学
+
+Mila - Quebec AI Institute
+
+- [Yoshua Bengio](https://yoshuabengio.org/)
+
+### 新加坡国立大学
+
+Human Language Technology Laboratory
+
+- [李海洲](https://colips.org/~eleliha/)
+
+### 南洋理工大学
+
+- [Eng-Siong Chng](https://personal.ntu.edu.sg/aseschng/intro1.html)
+
+### 新加坡科技设计大学
+
+- [Berrak Sisman](https://istd.sutd.edu.sg/people/faculty/berrak-sisman)
+
+### 谢菲尔德大学
+
+Speech and Hearing Group
+
+- [Thomas Hain](https://staffwww.dcs.shef.ac.uk/people/T.Hain/)
+- [Jon Barker](http://staffwww.dcs.shef.ac.uk/people/J.Barker/)
+- [Heidi Christensen](https://heidi-christensen.github.io/website//)
+- [Roger K. Moore](http://staffwww.dcs.shef.ac.uk/people/R.K.Moore/)
+
+### 剑桥大学
+
+Machine Intelligence Laboratory - Speech Research Group
+
+- Phil Woodland
+- Mark Gales
+- Steve Young
+
+### 爱丁堡大学
+
+The Centre for Speech Technology Research
+
+- [Simon King](https://homepages.inf.ed.ac.uk/simonk/)
+- Steve Renals
+- Peter Bell
+- Hao Tang
+
+### 牛津大学
+
+Visual Geometry Group
+
+- Andrew Zisserman
+
+
+### 麻省理工大学
+
+MIT CSAIL
+
+- James Glass
+- [Antonio Torralba](http://web.mit.edu/torralba/www/)
+
+### 布尔诺理工大学
+
+Faculty of Information Technology
+
+- Lukas Burget
+- Jan Cernocky
+
+### 卡耐基梅隆大学
+
+- [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe)
 
 
 ## 国内企业
@@ -185,8 +285,20 @@
 - ISCSLP（International Symposium on Chinese Spoken Language Processing）
 - JSLHR（Journal of Speech, Language, and Hearing Research）
 - Computer Speech and Language
+- Speaker Odyssey
+- JASA(Journal of the Acoustical Society of America)
+- Signal Processing
+- Speech Communication
 
+## 竞赛
 
+- CHiME
+- VCC
+- DCASE
+- NIST SRE
+- Blizzard Challenge
+- OLR东方语种识别
+- VoxSRC
 
 ## 公众号
 
@@ -197,6 +309,7 @@
 
 - 语音之家
 - 智能语音青年
+- 低调奋进
 
 
 
