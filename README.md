@@ -16,22 +16,22 @@
     - [香港中文大学](#%E9%A6%99%E6%B8%AF%E4%B8%AD%E6%96%87%E5%A4%A7%E5%AD%A6)
     - [台湾大学](#%E5%8F%B0%E6%B9%BE%E5%A4%A7%E5%AD%A6)
   - [海外高校](#%E6%B5%B7%E5%A4%96%E9%AB%98%E6%A0%A1)
-    - [蒙特利尔大学](#%E8%92%99%E7%89%B9%E5%88%A9%E5%B0%94%E5%A4%A7%E5%AD%A6)
-    - [新加坡国立大学](#%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9B%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6)
-    - [南洋理工大学](#%E5%8D%97%E6%B4%8B%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6)
-    - [新加坡科技设计大学](#%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%A7%91%E6%8A%80%E8%AE%BE%E8%AE%A1%E5%A4%A7%E5%AD%A6)
-    - [谢菲尔德大学](#%E8%B0%A2%E8%8F%B2%E5%B0%94%E5%BE%B7%E5%A4%A7%E5%AD%A6)
     - [剑桥大学](#%E5%89%91%E6%A1%A5%E5%A4%A7%E5%AD%A6)
-    - [爱丁堡大学](#%E7%88%B1%E4%B8%81%E5%A0%A1%E5%A4%A7%E5%AD%A6)
     - [牛津大学](#%E7%89%9B%E6%B4%A5%E5%A4%A7%E5%AD%A6)
+    - [爱丁堡大学](#%E7%88%B1%E4%B8%81%E5%A0%A1%E5%A4%A7%E5%AD%A6)
+    - [谢菲尔德大学](#%E8%B0%A2%E8%8F%B2%E5%B0%94%E5%BE%B7%E5%A4%A7%E5%AD%A6)
+    - [蒙特利尔大学](#%E8%92%99%E7%89%B9%E5%88%A9%E5%B0%94%E5%A4%A7%E5%AD%A6)
     - [麻省理工大学](#%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6)
-    - [布尔诺理工大学](#%E5%B8%83%E5%B0%94%E8%AF%BA%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6)
     - [卡耐基梅隆大学](#%E5%8D%A1%E8%80%90%E5%9F%BA%E6%A2%85%E9%9A%86%E5%A4%A7%E5%AD%A6)
-    - [国立情报学研究所（Tokyo）](#%E5%9B%BD%E7%AB%8B%E6%83%85%E6%8A%A5%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80tokyo)
     - [南加州大学](#%E5%8D%97%E5%8A%A0%E5%B7%9E%E5%A4%A7%E5%AD%A6)
     - [德克萨斯州大学达拉斯分校](#%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF%E5%B7%9E%E5%A4%A7%E5%AD%A6%E8%BE%BE%E6%8B%89%E6%96%AF%E5%88%86%E6%A0%A1)
     - [罗切斯特大学](#%E7%BD%97%E5%88%87%E6%96%AF%E7%89%B9%E5%A4%A7%E5%AD%A6)
+    - [布尔诺理工大学](#%E5%B8%83%E5%B0%94%E8%AF%BA%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6)
     - [俄亥俄州立大学](#%E4%BF%84%E4%BA%A5%E4%BF%84%E5%B7%9E%E7%AB%8B%E5%A4%A7%E5%AD%A6)
+    - [新加坡国立大学](#%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9B%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6)
+    - [南洋理工大学](#%E5%8D%97%E6%B4%8B%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6)
+    - [新加坡科技设计大学](#%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%A7%91%E6%8A%80%E8%AE%BE%E8%AE%A1%E5%A4%A7%E5%AD%A6)
+    - [国立情报学研究所（Tokyo）](#%E5%9B%BD%E7%AB%8B%E6%83%85%E6%8A%A5%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80tokyo)
   - [国内企业](#%E5%9B%BD%E5%86%85%E4%BC%81%E4%B8%9A)
   - [期刊&会议](#%E6%9C%9F%E5%88%8A%E4%BC%9A%E8%AE%AE)
   - [竞赛](#%E7%AB%9E%E8%B5%9B)
@@ -45,7 +45,7 @@
 
 > 语音方向实验室/公司/资源/实习等，欢迎推荐或自荐（排名不分先后）
 
-<img src="https://githubpage.oss-cn-qingdao.aliyuncs.com/mypic1891644550310_.pic.jpg" width="400px"/>
+<img src="https://githubpage.oss-cn-qingdao.aliyuncs.com/mypicWechatIMG190.jpeg" width="400px"/>
 
 ## 国内高校
 
@@ -181,6 +181,8 @@
 
 - 赵洲
 
+
+
 ### 香港中文大学
 
 香港中文大学（深圳）数据科学学院
@@ -192,6 +194,8 @@
 - 蒙美玲
 - [刘循英](https://www1.se.cuhk.edu.hk/~xyliu/)
 
+
+
 ### 台湾大学
 
 Speech Processing and Machine Learning Laboratory
@@ -200,44 +204,27 @@ Speech Processing and Machine Learning Laboratory
 - [李宏毅](https://speech.ee.ntu.edu.tw/~hylee/index.php)
 
 
+
 ## 海外高校
-
-### 蒙特利尔大学
-
-Mila - Quebec AI Institute
-
-- [Yoshua Bengio](https://yoshuabengio.org/)
-
-### 新加坡国立大学
-
-Human Language Technology Laboratory
-
-- [李海洲](https://colips.org/~eleliha/)
-
-### 南洋理工大学
-
-- [Eng-Siong Chng](https://personal.ntu.edu.sg/aseschng/intro1.html)
-
-### 新加坡科技设计大学
-
-- [Berrak Sisman](https://istd.sutd.edu.sg/people/faculty/berrak-sisman)
-
-### 谢菲尔德大学
-
-Speech and Hearing Group
-
-- [Thomas Hain](https://staffwww.dcs.shef.ac.uk/people/T.Hain/)
-- [Jon Barker](http://staffwww.dcs.shef.ac.uk/people/J.Barker/)
-- [Heidi Christensen](https://heidi-christensen.github.io/website//)
-- [Roger K. Moore](http://staffwww.dcs.shef.ac.uk/people/R.K.Moore/)
 
 ### 剑桥大学
 
 Machine Intelligence Laboratory - Speech Research Group
 
+- Steve Young: The HTK book 一作
+
 - Phil Woodland
 - Mark Gales
-- Steve Young
+
+
+
+### 牛津大学
+
+Visual Geometry Group
+
+- Andrew Zisserman
+
+
 
 ### 爱丁堡大学
 
@@ -248,11 +235,26 @@ The Centre for Speech Technology Research
 - Peter Bell
 - Hao Tang
 
-### 牛津大学
 
-Visual Geometry Group
 
-- Andrew Zisserman
+### 谢菲尔德大学
+
+Speech and Hearing Group
+
+- [Thomas Hain](https://staffwww.dcs.shef.ac.uk/people/T.Hain/)
+- [Jon Barker](http://staffwww.dcs.shef.ac.uk/people/J.Barker/)
+- [Heidi Christensen](https://heidi-christensen.github.io/website//)
+- [Roger K. Moore](http://staffwww.dcs.shef.ac.uk/people/R.K.Moore/)
+
+
+
+### 蒙特利尔大学
+
+Mila - Quebec AI Institute
+
+- [Yoshua Bengio](https://yoshuabengio.org/)
+
+
 
 
 ### 麻省理工大学
@@ -262,6 +264,32 @@ MIT CSAIL
 - James Glass
 - [Antonio Torralba](http://web.mit.edu/torralba/www/)
 
+
+
+### 卡耐基梅隆大学
+
+- [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe)
+
+
+
+### 南加州大学
+
+- [Shrikanth (Shri) Narayanan](https://scholar.google.com/citations?hl=zh-CN&user=8EDHmYkAAAAJ&view_op=list_works&sortby=pubdate)
+
+
+
+### 德克萨斯州大学达拉斯分校
+
+- [John Hansen](https://scholar.google.com/citations?user=hfADwdIAAAAJ&hl=zh-CN)
+
+
+
+### 罗切斯特大学
+
+- [Zhiyao Duan](https://scholar.google.com/citations?hl=en&user=pJmAoJ4AAAAJ&view_op=list_works&sortby=pubdate)
+
+
+
 ### 布尔诺理工大学
 
 Faculty of Information Technology
@@ -269,29 +297,39 @@ Faculty of Information Technology
 - Lukas Burget
 - Jan Cernocky
 
-### 卡耐基梅隆大学
 
-- [Shinji Watanabe](https://sites.google.com/view/shinjiwatanabe)
+
+### 俄亥俄州立大学
+
+- [DeLiang Wang](https://scholar.google.com/citations?user=yO59sggAAAAJ&hl=zh-CN)
+
+
+
+### 新加坡国立大学
+
+Human Language Technology Laboratory
+
+- [Haizhou Li](https://colips.org/~eleliha/)
+
+
+
+### 南洋理工大学
+
+- [Eng-Siong Chng](https://personal.ntu.edu.sg/aseschng/intro1.html)
+
+
+
+### 新加坡科技设计大学
+
+- [Berrak Sisman](https://istd.sutd.edu.sg/people/faculty/berrak-sisman)
+
+
 
 ### 国立情报学研究所（Tokyo）
 
 - [Junichi Yamagishi](https://scholar.google.com/citations?user=nRrdjtwAAAAJ&hl=zh-CN)
 
-### 南加州大学
 
-- [Shrikanth (Shri) Narayanan](https://scholar.google.com/citations?hl=zh-CN&user=8EDHmYkAAAAJ&view_op=list_works&sortby=pubdate)
-
-### 德克萨斯州大学达拉斯分校
-
-- [John Hansen](https://scholar.google.com/citations?user=hfADwdIAAAAJ&hl=zh-CN)
-
-### 罗切斯特大学
-
-- [Zhiyao Duan](https://scholar.google.com/citations?hl=en&user=pJmAoJ4AAAAJ&view_op=list_works&sortby=pubdate)
-
-### 俄亥俄州立大学
-
-- [DeLiang Wang](https://scholar.google.com/citations?user=yO59sggAAAAJ&hl=zh-CN)
 
 
 ## 国内企业
@@ -315,7 +353,6 @@ Faculty of Information Technology
 ## 期刊&会议
 
 - TPAMI（IEEE Trans on Pattern Analysis and Machine Intelligence）
-
 - TASLP（IEEE Transactions on Audio, Speech, and Language Processing）
 - TSLP（ACM Transactions on Speech and Language Processing）
 - ICASSP（IEEE International Conference on Acoustics, Speech and Signal Processing）
@@ -327,9 +364,11 @@ Faculty of Information Technology
 - JSLHR（Journal of Speech, Language, and Hearing Research）
 - Computer Speech and Language
 - Speaker Odyssey
-- JASA(Journal of the Acoustical Society of America)
+- JASA（Journal of the Acoustical Society of America）
 - Signal Processing
 - Speech Communication
+
+
 
 ## 竞赛
 
@@ -340,6 +379,8 @@ Faculty of Information Technology
 - Blizzard Challenge
 - OLR东方语种识别
 - VoxSRC
+
+
 
 ## 公众号
 
