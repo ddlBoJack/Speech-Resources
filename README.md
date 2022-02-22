@@ -45,7 +45,7 @@
 
 > 语音方向实验室/公司/资源/实习等，欢迎推荐或自荐（排名不分先后）
 
-<img src="https://githubpage.oss-cn-qingdao.aliyuncs.com/mypicWechatIMG190.jpeg" width="400px"/>
+<img src="https://githubpage.oss-cn-qingdao.aliyuncs.com/mypicWechatIMG195.jpeg" width="400px"/>
 
 
 
