@@ -45,7 +45,7 @@
 
 > 语音方向实验室/公司/资源/实习等，欢迎推荐或自荐（排名不分先后）
 
-<img src="https://githubpage.oss-cn-qingdao.aliyuncs.com/mypicIMG_0410(20220421-232749).JPG" width="400px"/>
+<img src="README/2061653285973_.pic.jpg" width="400px"/>
 
 ## 国内高校
 
