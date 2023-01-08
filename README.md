@@ -185,15 +185,33 @@
 
 ### 香港中文大学
 
+[Human-Computer Communications Laboratory (HCCL)](https://www1.se.cuhk.edu.hk/~hccl/publications/)
+
+- [Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/)
+- [刘循英](https://www1.se.cuhk.edu.hk/~xyliu/)
+
+香港中文大学电子工程系
+
+- [Tan Lee](https://www.ee.cuhk.edu.hk/~tanlee/)
+
 香港中文大学（深圳）数据科学学院
 
 - [李海洲](https://colips.org/~eleliha/)
 
-香港中文大学系统工程与工程管理学系
 
-- 蒙美玲
-- [刘循英](https://www1.se.cuhk.edu.hk/~xyliu/)
 
+### 香港科技大学
+
+计算机科学与工程系
+
+- [Brain Mak](https://www.cse.ust.hk/faculty/mak/)
+
+
+### 香港理工大学
+
+电子信息工程系
+
+- [Man-Wai Mak](http://www.eie.polyu.edu.hk/~mwmak/)
 
 
 ### 台湾大学
