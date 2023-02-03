@@ -45,7 +45,7 @@
 
 > 语音方向实验室/公司/资源/实习等，欢迎推荐或自荐（排名不分先后）
 
-<img src="README/WechatIMG529.jpeg" width="400px"/>
+<img src="README/WechatIMG570.jpeg" width="400px"/>
 
 ## 国内高校
 
