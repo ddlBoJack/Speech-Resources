@@ -45,7 +45,7 @@
 
 > 语音方向实验室/公司/资源/实习等，欢迎推荐或自荐（排名不分先后）
 
-<img src="README/WechatIMG575.jpeg" width="400px"/>
+<img src="README/IMG_8071.JPG" width="400px"/>
 
 ## 国内高校
 
@@ -54,6 +54,7 @@
 电子工程系
 
 - 吴及：电子工程系副系主任，研究方向侧重于语音语言智能与医学结合
+- [张超](http://mi.eng.cam.ac.uk/~cz277)：加入清华前为谷歌语音组Senior Research Scientist
 
 [电子工程系语音与音频技术实验室(SATLab)](http://web.ee.tsinghua.edu.cn/satlab)
 
@@ -110,7 +111,7 @@
 
 电子系未来媒体协同创新中心
 
-- [王钰 ](http://mi.eng.cam.ac.uk/~yw396/)
+- [王钰 ](http://mi.eng.cam.ac.uk/~yw396/): 
 
 
 
@@ -197,6 +198,7 @@
 香港中文大学（深圳）数据科学学院
 
 - [李海洲](https://colips.org/~eleliha/)
+- 武执正
 
 
 
