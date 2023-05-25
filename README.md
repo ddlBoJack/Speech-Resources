@@ -413,6 +413,8 @@ Human Language Technology Laboratory
 - 语音之家
 - 智能语音青年
 - 低调奋进
+- 新一代Kaldi
+
 
 
 
@@ -425,6 +427,8 @@ Human Language Technology Laboratory
 [Kaldi源码解析](https://www.zhihu.com/column/c_1313042386550267904)
 
 [espnet--一个端到端语音识别工具箱](https://www.zhihu.com/column/espnet)
+
+[新一代Kaldi](https://www.zhihu.com/people/yaozengwei/posts)
 
 
 
