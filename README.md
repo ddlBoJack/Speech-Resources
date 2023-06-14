@@ -150,9 +150,9 @@
 
 ### 西北工业大学
 
-[音频语音与语言处理研究组](http://www.npu-aslp.org/)
+[音频语音与语言处理研究组(ASLP)](http://www.npu-aslp.org/)
 
-- 谢磊
+- [谢磊](http://lxie.npu-aslp.org/)
 
 [智能声学与临境通信研究中心(CIAIC)](https://www.ciaic.org/)
 
@@ -292,6 +292,14 @@ MIT CSAIL
 
 
 
+### 约翰霍普金斯大学
+
+Center for Language and Speech Processing
+
+- Sanjeev Khudanpur
+
+
+
 ### 南加州大学
 
 - [Shrikanth (Shri) Narayanan](https://scholar.google.com/citations?hl=zh-CN&user=8EDHmYkAAAAJ&view_op=list_works&sortby=pubdate)
@@ -363,9 +371,10 @@ Human Language Technology Laboratory
 - 阿里天猫精灵
 - 百度小度
 - 小米小爱
+- 小米k2
 - 思必驰
 - 云知声
-- 出门问问
+- 出门问问WeNet
 - 标贝科技
 
 
