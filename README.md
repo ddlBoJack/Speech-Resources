@@ -45,7 +45,7 @@
 
 > 语音方向实验室/公司/资源/实习等，欢迎推荐或自荐（排名不分先后）
 
-<img src="README/WechatIMG681.jpeg" width="400px"/>
+<img src="README/WechatIMG684.jpeg" width="400px"/>
 
 ## 国内高校
 
@@ -363,12 +363,14 @@ Human Language Technology Laboratory
 ## 国内企业
 
 - MSRA-NLC组
+- MSRA-ML组
 - 腾讯AILAB语音技术中心
 - 腾讯天籁实验室
+- 阿里达摩院智能语音实验室
+- 阿里天猫精灵
 - 字节跳动SAMI组
 - 科大讯飞
 - 搜狗
-- 阿里天猫精灵
 - 百度小度
 - 小米小爱
 - 小米k2
