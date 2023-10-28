@@ -10,6 +10,7 @@
     - [中国科学院](#%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2)
     - [中国科学技术大学](#%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6)
     - [西北工业大学](#%E8%A5%BF%E5%8C%97%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6)
+    - [天津大学](#%E5%A4%A9%E6%B4%A5%E5%A4%A7%E5%AD%A6)
     - [厦门大学](#%E5%8E%A6%E9%97%A8%E5%A4%A7%E5%AD%A6)
     - [昆山杜克大学](#%E6%98%86%E5%B1%B1%E6%9D%9C%E5%85%8B%E5%A4%A7%E5%AD%A6)
     - [浙江大学](#%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6)
@@ -48,7 +49,7 @@
 
 > 语音方向实验室/公司/资源/实习等，欢迎推荐或自荐（排名不分先后）
 
-<img src="README/WechatIMG743.jpg" width="400px"/>
+<img src="README/WechatIMG746.jpg" width="400px"/>
 
 ## 国内高校
 
@@ -151,6 +152,7 @@
 - 杜俊
 
 
+
 ### 西北工业大学
 
 [音频语音与语言处理研究组(ASLP)](http://www.npu-aslp.org/)
@@ -160,6 +162,15 @@
 [智能声学与临境通信研究中心(CIAIC)](https://www.ciaic.org/)
 
 - 陈景东：前贝尔实验室资深研究员，信号和信息处理做的很好
+
+
+
+### 天津大学
+
+智能与计算学部
+
+- 党建武
+- 王龙标
 
 
 
@@ -212,11 +223,13 @@
 - [Brain Mak](https://www.cse.ust.hk/faculty/mak/)
 
 
+
 ### 香港理工大学
 
 电子信息工程系
 
 - [Man-Wai Mak](http://www.eie.polyu.edu.hk/~mwmak/)
+
 
 
 ### 台湾大学
