@@ -230,6 +230,7 @@
 计算机科学与工程系
 
 - [Brain Mak](https://www.cse.ust.hk/faculty/mak/)
+- [雪巍](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=wei-xue-weixue)
 
 
 
