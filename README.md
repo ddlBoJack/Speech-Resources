@@ -209,14 +209,14 @@
 
 [Human-Computer Communications Laboratory (HCCL)](https://www1.se.cuhk.edu.hk/~hccl/publications/)
 
-- [Helen Meng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/)
+- [蒙美玲](https://www.se.cuhk.edu.hk/people/academic-staff/prof-meng-mei-ling-helen/)
 - [刘循英](https://www1.se.cuhk.edu.hk/~xyliu/)
-- [Xixin Wu](https://www1.se.cuhk.edu.hk/~wuxx/)
+- [吴锡欣](https://www1.se.cuhk.edu.hk/~wuxx/)
 
 香港中文大学电子工程系
 
-- [Tan Lee](https://www.ee.cuhk.edu.hk/~tanlee/)
-- [Qiuqiang Kong](https://qiuqiangkong.github.io/)
+- [李丹](https://www.ee.cuhk.edu.hk/~tanlee/)
+- [孔秋强](https://qiuqiangkong.github.io/)
 
 香港中文大学（深圳）数据科学学院
 
